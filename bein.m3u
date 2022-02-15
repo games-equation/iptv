@@ -515,3 +515,206 @@ http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/40205.ts
 http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/40204.ts
 #EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT SPORTS 3 HD Backup" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5712.1565312749.png" group-title="UK - Sport",UK: BT SPORTS 3 HD Backup
 http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/40203.ts
+#EXTINF:-1 tvg-ID="cbs8wvlt.us" tvg-name="US: CBS 8 Knoxville (WVLT)" tvg-logo="" group-title="US - Local",US: CBS 8 Knoxville (WVLT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249430.ts
+#EXTINF:-1 tvg-ID="cbs2kdka.us" tvg-name="US: CBS 2 Pittsburgh (KDKA-DT)" tvg-logo="" group-title="US - Local",US: CBS 2 Pittsburgh (KDKA-DT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249429.ts
+#EXTINF:-1 tvg-ID="cbs19wltx.us" tvg-name="US: CBS 19 Columbia (WLTX)" tvg-logo="" group-title="US - Local",US: CBS 19 Columbia (WLTX)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249428.ts
+#EXTINF:-1 tvg-ID="cbs8kfmb.us" tvg-name="US: CBS 8 San Diego (KFMB)" tvg-logo="" group-title="US - Local",US: CBS 8 San Diego (KFMB)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249427.ts
+#EXTINF:-1 tvg-ID="cbs5wcsc.us" tvg-name="US: CBS 5 Charleston (WCSC)" tvg-logo="" group-title="US - Local",US: CBS 5 Charleston (WCSC)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249425.ts
+#EXTINF:-1 tvg-ID="cbs5kpix.us" tvg-name="US: CBS 5 San Francisco (KPIX)" tvg-logo="" group-title="US - Local",US: CBS 5 San Francisco (KPIX)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249424.ts
+#EXTINF:-1 tvg-ID="cbs4kmov.us" tvg-name="US: CBS 4 St. Louis (KMOV)" tvg-logo="" group-title="US - Local",US: CBS 4 St. Louis (KMOV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249423.ts
+#EXTINF:-1 tvg-ID="cbs42wiat.us" tvg-name="US: CBS 42 Birmingham (WIAT)" tvg-logo="" group-title="US - Local",US: CBS 42 Birmingham (WIAT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249422.ts
+#EXTINF:-1 tvg-ID="cbs4wivb.us" tvg-name="US: CBS 4 Buffalo (WIVB)" tvg-logo="" group-title="US - Local",US: CBS 4 Buffalo (WIVB)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249421.ts
+#EXTINF:-1 tvg-ID="cbs10kztv.us" tvg-name="US: CBS 10 Corpus Christi (KZTV)" tvg-logo="" group-title="US - Local",US: CBS 10 Corpus Christi (KZTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249419.ts
+#EXTINF:-1 tvg-ID="cbs2kutv.us" tvg-name="US: CBS 2 Salt Lake City (KUTV)" tvg-logo="" group-title="US - Local",US: CBS 2 Salt Lake City (KUTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249417.ts
+#EXTINF:-1 tvg-ID="cbs19woio.us" tvg-name="US: CBS 19 Cleveland (WOIO)" tvg-logo="" group-title="US - Local",US: CBS 19 Cleveland (WOIO)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249416.ts
+#EXTINF:-1 tvg-ID="cbs5kgmb.us" tvg-name="US: CBS 5 Honolulu (KGMB)" tvg-logo="" group-title="US - Local",US: CBS 5 Honolulu (KGMB)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249415.ts
+#EXTINF:-1 tvg-ID="cbs47kgpe.us" tvg-name="US: CBS 47 Fresno (KGPE)" tvg-logo="" group-title="US - Local",US: CBS 47 Fresno (KGPE)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249414.ts
+#EXTINF:-1 tvg-ID="cbs13krqe.us" tvg-name="US: CBS 13 Albuquerque (KRQE)" tvg-logo="" group-title="US - Local",US: CBS 13 Albuquerque (KRQE)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249413.ts
+#EXTINF:-1 tvg-ID="cbs13kold.us" tvg-name="US: CBS 13 Tucson (KOLD)" tvg-logo="" group-title="US - Local",US: CBS 13 Tucson (KOLD)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249412.ts
+#EXTINF:-1 tvg-ID="cbs6koin.us" tvg-name="US: CBS 6 Portland (KOIN)" tvg-logo="" group-title="US - Local",US: CBS 6 Portland (KOIN)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249410.ts
+#EXTINF:-1 tvg-ID="cbs3kyw.us" tvg-name="US: CBS 3 Philadelphia (KYW)" tvg-logo="" group-title="US - Local",US: CBS 3 Philadelphia (KYW)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249409.ts
+#EXTINF:-1 tvg-ID="cbs8klas.us" tvg-name="US: CBS 8 Las Vegas (KLAS)" tvg-logo="" group-title="US - Local",US: CBS 8 Las Vegas (KLAS)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249408.ts
+#EXTINF:-1 tvg-ID="cbs4wwl.us" tvg-name="US: CBS 4 New Orleans (WWL)" tvg-logo="" group-title="US - Local",US: CBS 4 New Orleans (WWL)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249407.ts
+#EXTINF:-1 tvg-ID="cbs2wcbs.us" tvg-name="US: CBS 55 New York (WLNY)" tvg-logo="" group-title="US - Local",US: CBS 55 New York (WLNY)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249406.ts
+#EXTINF:-1 tvg-ID="cbs13wjz.us" tvg-name="US: CBS 13 Baltimore (WJZ)" tvg-logo="" group-title="US - Local",US: CBS 13 Baltimore (WJZ)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249405.ts
+#EXTINF:-1 tvg-ID="cbs9wusa.us" tvg-name="US: CBS 9 Washington DC (WUSA)" tvg-logo="" group-title="US - Local",US: CBS 9 Washington DC (WUSA)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249404.ts
+#EXTINF:-1 tvg-ID="cbs21ktxa.us" tvg-name="US: CBS 21 Dallas-Fort Worth (KTXA)" tvg-logo="" group-title="US - Local",US: CBS 21 Dallas-Fort Worth (KTXA)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249403.ts
+#EXTINF:-1 tvg-ID="cbs21ktxa.us" tvg-name="US: CBS 11 Dallas-Fort Worth (KTVT)" tvg-logo="" group-title="US - Local",US: CBS 11 Dallas-Fort Worth (KTVT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249402.ts
+#EXTINF:-1 tvg-ID="cbs2wcbs.us" tvg-name="US: CBS 2 New York (WCBS)" tvg-logo="" group-title="US - Local",US: CBS 2 New York (WCBS)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249401.ts
+#EXTINF:-1 tvg-ID="cbs2kcbs.us" tvg-name="US: CBS 2 Los Angeles (KCBS)" tvg-logo="" group-title="US - Local",US: CBS 2 Los Angeles (KCBS)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249400.ts
+#EXTINF:-1 tvg-ID="cbs4kcnc.us" tvg-name="US: CBS 4 Denver (KCNC)" tvg-logo="" group-title="US - Local",US: CBS 4 Denver (KCNC)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249399.ts
+#EXTINF:-1 tvg-ID="cbs9kwtv.us" tvg-name="US: CBS 9 Oklahoma City (KWTV)" tvg-logo="" group-title="US - Local",US: CBS 9 Oklahoma City (KWTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249398.ts
+#EXTINF:-1 tvg-ID="cbs4wfor.us" tvg-name="US: CBS 4 Miami (WFOR)" tvg-logo="" group-title="US - Local",US: CBS 4 Miami (WFOR)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249397.ts
+#EXTINF:-1 tvg-ID="cbs2wbbm.us" tvg-name="US: CBS 2 Chicago (WBBM)" tvg-logo="" group-title="US - Local",US: CBS 2 Chicago (WBBM)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249396.ts
+#EXTINF:-1 tvg-ID="cbs62wwj.us" tvg-name="US: CBS 62 Detroit (WWJ)" tvg-logo="" group-title="US - Local",US: CBS 62 Detroit (WWJ)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249395.ts
+#EXTINF:-1 tvg-ID="cbs4wcco.us" tvg-name="US: CBS 4 Minneapolis (WCCO)" tvg-logo="" group-title="US - Local",US: CBS 4 Minneapolis (WCCO)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249394.ts
+#EXTINF:-1 tvg-ID="cbs12wkrc.us" tvg-name="US: CBS 12 Cincinnati (WKRC)" tvg-logo="" group-title="US - Local",US: CBS 12 Cincinnati (WKRC)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249393.ts
+#EXTINF:-1 tvg-ID="cbs46wgcl.us" tvg-name="US: CBS 46 Atlanta (WGCL)" tvg-logo="" group-title="US - Local",US: CBS 46 Atlanta (WGCL)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249392.ts
+#EXTINF:-1 tvg-ID="cbs11khou.us" tvg-name="US: CBS 11 Houston (KHOU)" tvg-logo="" group-title="US - Local",US: CBS 11 Houston (KHOU)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249391.ts
+#EXTINF:-1 tvg-ID="cbs7kiro.us" tvg-name="US: CBS 7 Seattle (KIRO)" tvg-logo="" group-title="US - Local",US: CBS 7 Seattle (KIRO)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249390.ts
+#EXTINF:-1 tvg-ID="cbs4wbz.us" tvg-name="US: CBS 4 Boston (WBZ)" tvg-logo="" group-title="US - Local",US: CBS 4 Boston (WBZ)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249389.ts
+#EXTINF:-1 tvg-ID="cbs5wtvf.us" tvg-name="US: CBS 5 Nashville (WTVF)" tvg-logo="" group-title="US - Local",US: CBS 5 Nashville (WTVF)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249388.ts
+#EXTINF:-1 tvg-ID="cbs5kpho.us" tvg-name="US: CBS 5 Phoenix (KPHO)" tvg-logo="" group-title="US - Local",US: CBS 5 Phoenix (KPHO)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249387.ts
+#EXTINF:-1 tvg-ID="cbs47wjax.us" tvg-name="US: CBS 47 Jacksonville (WJAX)" tvg-logo="" group-title="US - Local",US: CBS 47 Jacksonville (WJAX)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249218.ts
+#EXTINF:-1 tvg-ID="cbs10kfda.us" tvg-name="US: CBS 10 Amarillo (KFDA)" tvg-logo="" group-title="US - Local",US: CBS 10 Amarillo (KFDA)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249214.ts
+#EXTINF:-1 tvg-ID="cbs4kdbc.us" tvg-name="US: CBS 4 El Paso (KDBC)" tvg-logo="" group-title="US - Local",US: CBS 4 El Paso (KDBC)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249209.ts
+#EXTINF:-1 tvg-ID="cbs42keye.us" tvg-name="US: CBS 42 Austin (KEYE)" tvg-logo="" group-title="US - Local",US: CBS 42 Austin (KEYE)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249205.ts
+#EXTINF:-1 tvg-ID="cbs5kens.us" tvg-name="US: CBS 5 San Antonio (KENS)" tvg-logo="" group-title="US - Local",US: CBS 5 San Antonio (KENS)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249199.ts
+#EXTINF:-1 tvg-ID="cbs29kbak.us" tvg-name="US: CBS 29 Bakersfield (KBAK)" tvg-logo="" group-title="US - Local",US: CBS 29 Bakersfield (KBAK)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249191.ts
+#EXTINF:-1 tvg-ID="cbs5kctv.us" tvg-name="US: CBS 5 Kansas City (KCTV)" tvg-logo="" group-title="US - Local",US: CBS 5 Kansas City (KCTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249186.ts
+#EXTINF:-1 tvg-ID="cbs10kolr.us" tvg-name="US: CBS 3 Springfield (WCIA)" tvg-logo="" group-title="US - Local",US: CBS 3 Springfield (WCIA)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249181.ts
+#EXTINF:-1 tvg-ID="cbs6kauz.us" tvg-name="US: CBS 12 Wichita (KWCH)" tvg-logo="" group-title="US - Local",US: CBS 12 Wichita (KWCH)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249176.ts
+#EXTINF:-1 tvg-ID="cbs5wfrv.us" tvg-name="US: CBS 5 Green Bay (WFRV)" tvg-logo="" group-title="US - Local",US: CBS 5 Green Bay (WFRV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249171.ts
+#EXTINF:-1 tvg-ID="cbs58wdjt.us" tvg-name="US: CBS 58 Milwaukee (WDJT)" tvg-logo="" group-title="US - Local",US: CBS 58 Milwaukee (WDJT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249165.ts
+#EXTINF:-1 tvg-ID="cbs2kgan.us" tvg-name="US: CBS 2 Cedar Rapids (KGAN)" tvg-logo="" group-title="US - Local",US: CBS 2 Cedar Rapids (KGAN)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249160.ts
+#EXTINF:-1 tvg-ID="cbs4wcbi.us" tvg-name="US: CBS 3 Columbus (WRBL)" tvg-logo="" group-title="US - Local",US: CBS 3 Columbus (WRBL)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249156.ts
+#EXTINF:-1 tvg-ID="cbs11kktv.us" tvg-name="US: CBS 11 Colorado Springs (KKTV)" tvg-logo="" group-title="US - Local",US: CBS 11 Colorado Springs (KKTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249152.ts
+#EXTINF:-1 tvg-ID="cbs3kmtv.us" tvg-name="US: CBS 3 OMAHA (KMTV)" tvg-logo="" group-title="US - Local",US: CBS 3 OMAHA (KMTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249149.ts
+#EXTINF:-1 tvg-ID="cbs12ksla.us" tvg-name="US: CBS 12 Shreveport (KSLA)" tvg-logo="" group-title="US - Local",US: CBS 12 Shreveport (KSLA)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249135.ts
+#EXTINF:-1 tvg-ID="cbs12wdef.us" tvg-name="US: CBS 12 Chattanooga (WDEF)" tvg-logo="" group-title="US - Local",US: CBS 12 Chattanooga (WDEF)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249130.ts
+#EXTINF:-1 tvg-ID="cbs9wnct.us" tvg-name="US: CBS 7 Greenville (WSPA)" tvg-logo="" group-title="US - Local",US: CBS 7 Greenville (WSPA)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249125.ts
+#EXTINF:-1 tvg-ID="cbs11wtoc.us" tvg-name="US: CBS 4 Savanna (KLJB)" tvg-logo="" group-title="US - Local",US: CBS 4 Savanna (KLJB)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249122.ts
+#EXTINF:-1 tvg-ID="cbs5wkrg.us" tvg-name="US: CBS 5 Mobile (WKRG)" tvg-logo="" group-title="US - Local",US: CBS 5 Mobile (WKRG)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249117.ts
+#EXTINF:-1 tvg-ID="cbs11kelo.us" tvg-name="US: CBS 11 Sioux Falls (KELO)" tvg-logo="" group-title="US - Local",US: CBS 11 Sioux Falls (KELO)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249113.ts
+#EXTINF:-1 tvg-ID="cbs32wlky.us" tvg-name="US: CBS 32 Louisville (WLKY)" tvg-logo="" group-title="US - Local",US: CBS 32 Louisville (WLKY)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249108.ts
+#EXTINF:-1 tvg-ID="cbs27wkyt.us" tvg-name="US: CBS 27 Lexington (WKYT)" tvg-logo="" group-title="US - Local",US: CBS 27 Lexington (WKYT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249104.ts
+#EXTINF:-1 tvg-ID="cbs19whnt.us" tvg-name="US: CBS 19 Huntsville (WHNT)" tvg-logo="" group-title="US - Local",US: CBS 19 Huntsville (WHNT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249100.ts
+#EXTINF:-1 tvg-ID="cbs3wbtv.us" tvg-name="US: CBS 3 Charlotte (WBTV)" tvg-logo="" group-title="US - Local",US: CBS 3 Charlotte (WBTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249096.ts
+#EXTINF:-1 tvg-ID="cbs7whio.us" tvg-name="US: CBS 7 Dayton (WHIO)" tvg-logo="" group-title="US - Local",US: CBS 7 Dayton (WHIO)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249089.ts
+#EXTINF:-1 tvg-ID="cbs4wcbi.us" tvg-name="US: CBS 10 Columbus (WBNS)" tvg-logo="" group-title="US - Local",US: CBS 10 Columbus (WBNS)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249083.ts
+#EXTINF:-1 tvg-ID="cbs10kolr.us" tvg-name="US: CBS 3 Springfield (WSHM)" tvg-logo="" group-title="US - Local",US: CBS 3 Springfield (WSHM)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249079.ts
+#EXTINF:-1 tvg-ID="cbs5wtvh.us" tvg-name="US: CBS 5 Syracuse (WTVH)" tvg-logo="" group-title="US - Local",US: CBS 5 Syracuse (WTVH)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249075.ts
+#EXTINF:-1 tvg-ID="cbs10wtsp.us" tvg-name="US: CBS 10 Tampa Bay (WTSP)" tvg-logo="" group-title="US - Local",US: CBS 10 Tampa Bay (WTSP)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249060.ts
+#EXTINF:-1 tvg-ID="cbs6wkmg.us" tvg-name="US: CBS 6 Orlando (WKMG)" tvg-logo="" group-title="US - Local",US: CBS 6 Orlando (WKMG)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249054.ts
+#EXTINF:-1 tvg-ID="cbs4wttv.us" tvg-name="US: CBS 4 Indianapolis (WTTV)" tvg-logo="" group-title="US - Local",US: CBS 4 Indianapolis (WTTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249050.ts
+#EXTINF:-1 tvg-ID="cbs3wreg.us" tvg-name="US: CBS 3 Memphis (WREG)" tvg-logo="" group-title="US - Local",US: CBS 3 Memphis (WREG)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249044.ts
+#EXTINF:-1 tvg-ID="cbs6wtvr.us" tvg-name="US: CBS 6 Richmond (WTVR)" tvg-logo="" group-title="US - Local",US: CBS 6 Richmond (WTVR)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249038.ts
+#EXTINF:-1 tvg-ID="cbs3wtkr.us" tvg-name="US: CBS 3 Hampton (WTKR)" tvg-logo="" group-title="US - Local",US: CBS 3 Hampton (WTKR)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/249033.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IL: YES CBS Reality FHD" tvg-logo="https://logonoid.com/images/cbs-reality-logo.jpg" group-title="Israel",IL: YES CBS Reality FHD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/114477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA Arena 2 :" tvg-logo="https://sportshub.cbsistatic.com/i/r/2021/05/18/f543d746-5335-4f49-9005-4c5b8f9a44c1/thumbnail/1200x675/bd81ef1a1d64a46bd210d1c10f8ced34/nba-playoffs-logo.jpg" group-title="US-Sport",NBA Arena 2 :
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/111585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DK: CBS REALITY NORDIC" tvg-logo="https://www.pngkey.com/png/detail/215-2151726_cbs-reality-cbs-reality-logo.png" group-title="Denmark",DK: CBS REALITY NORDIC
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/110643.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AF: CBS Reality" tvg-logo="https://logo-all.ru/uploads/posts/2018-09/0_cbs_reality_logo.jpg" group-title="AFRICA",AF: CBS Reality
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/55342.ts
+#EXTINF:-1 tvg-ID="cbs.fort.worth.tx.us" tvg-name="US: CBS (KTVT)" tvg-logo="" group-title="US - Local",US: CBS (KTVT)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/55225.ts
+#EXTINF:-1 tvg-ID="cbs.new.york.ny.us" tvg-name="US: CBS (WCBS)" tvg-logo="" group-title="US - Local",US: CBS (WCBS)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/55224.ts
+#EXTINF:-1 tvg-ID="cbs2kcbs.us" tvg-name="US: CBS (KCBS)" tvg-logo="" group-title="US - Local",US: CBS (KCBS)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/55223.ts
+#EXTINF:-1 tvg-ID="cbs.waco.tx.us" tvg-name="US: CBS (KWTV)" tvg-logo="" group-title="US - Local",US: CBS (KWTV)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/55221.ts
+#EXTINF:-1 tvg-ID="cbs.houston.tx.us" tvg-name="US: CBS (KHOU)" tvg-logo="" group-title="US - Local",US: CBS (KHOU)
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/55214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IN: HIN CLASSICCIENMA FHD" tvg-logo="http://www.bernardherrmann.org/wp-content/uploads/2011/08/cbs-tv-logo-1950s.jpg" group-title="India",IN: HIN CLASSICCIENMA FHD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/54095.ts
+#EXTINF:-1 tvg-ID="cbs.reality.bg" tvg-name="BG: CBSReality" tvg-logo="https://www.pngkey.com/png/detail/215-2151726_cbs-reality-cbs-reality-logo.png" group-title="Bulgaria",BG: CBSReality
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/51499.ts
+#EXTINF:-1 tvg-ID="cbsreality.ro" tvg-name="RO: CBS Reality" tvg-logo="https://media.info/i/lf/0/1405279334/1209.png" group-title="Romania",RO: CBS Reality
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/51059.ts
+#EXTINF:-1 tvg-ID="cbssports.ca" tvg-name="CA: CBS HD" tvg-logo="https://www.clipartmax.com/png/middle/307-3070036_greuner-discusses-fibroids-on-cbs-news-cbs-blue-logo-png.png" group-title="CA-Entertainment",CA: CBS HD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/17959.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KP: CBS" tvg-logo="https://mms.businesswire.com/media/20201008005740/en/828766/5/cbs_hero_midnight_logo_092220.jpg" group-title="Korea",KP: CBS
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/689.ts
+#EXTINF:-1 tvg-ID="cbsreality.pt" tvg-name="PT: CBS REALITY" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo191.png" group-title="Portugal",PT: CBS REALITY
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/4300.ts
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="UK: CBS reality" tvg-logo="https://w7.pngwing.com/pngs/333/134/png-transparent-cbs-reality-reality-television-cbs-drama-television-channel-others-television-text-orange.png" group-title="UK - Entertainment",UK: CBS reality
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/1421.ts
+#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="UK: CBS Drama" tvg-logo="https://media.info/i/lf/0/1405279643/1429.png" group-title="UK - Entertainment",UK: CBS Drama
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/1422.ts
+#EXTINF:-1 tvg-ID="CBSN HD US" tvg-name="US: CBSN HD" tvg-logo="http://icon-library.com/images/cbs-icon/cbs-icon-7.jpg" group-title="US-Sport",US: CBSN HD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/2222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US: CBS" tvg-logo="http://jeffmatthews.org/typography/img/uses/cbs.jpg" group-title="US - News",US: CBS
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/131.ts
+#EXTINF:-1 tvg-ID="cbssportsnetwork.us" tvg-name="US: CBS Sports Network FHD" tvg-logo="https://pbs.twimg.com/media/DbI5q3BXUAAdzLG.jpg" group-title="US-Sport",US: CBS Sports Network FHD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/8600.ts
+#EXTINF:-1 tvg-ID="cbsrealityplus1.uk" tvg-name="UK: CBS Reality +1" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo191.png" group-title="UK - Entertainment",UK: CBS Reality +1
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/29471.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GR: CBS REALITY" tvg-logo="https://logo-all.ru/uploads/posts/2018-09/0_cbs_reality_logo.jpg" group-title="Greece",GR: CBS REALITY
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/41157.ts
+#EXTINF:-1 tvg-ID="CBS HD US" tvg-name="US: CBS FHD" tvg-logo="https://www.freepnglogos.com/uploads/cbs-png-logo/cbs-logo-2011-png-0.png" group-title="US - News",US: CBS FHD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/46834.ts
+#EXTINF:-1 tvg-ID="cbs.europa.pl" tvg-name="PL: CBS Europa HD" tvg-logo="" group-title="Poland",PL: CBS Europa HD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/19176.ts
+#EXTINF:-1 tvg-ID="cbs.europa.pl" tvg-name="PL: CBS Europa FHD" tvg-logo="" group-title="Poland",PL: CBS Europa FHD
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/30888.ts
+#EXTINF:-1 tvg-ID="cbs2wbbm.us" tvg-name="US: CBS CHICAGO" tvg-logo="" group-title="US - Local",US: CBS CHICAGO
+http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/2141337.ts
+
