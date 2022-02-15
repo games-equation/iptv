@@ -505,7 +505,6 @@ http://m3ulink.com:8080/movie/M7s3SxgfQ/7mpq140JxA/2125908.mkv
 http://m3ulink.com:8080/movie/M7s3SxgfQ/7mpq140JxA/2143724.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="CSI: Crime Scene Investigation S14 E10" tvg-logo="https://image.tmdb.org/t/p/w300/sd6nZadbeINKFi5YrPrAe2jzOeQ.jpg" group-title="TV-Series",CSI: Crime Scene Investigation S14 E10
 http://m3ulink.com:8080/series/M7s3SxgfQ/7mpq140JxA/1686246.mkv
-#EXTM3U
 #EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT SPORTS 2 HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1540.1565312726.png" group-title="UK - Sport",UK: BT SPORTS 2 HD
 http://m3ulink.com:8080/live/M7s3SxgfQ/7mpq140JxA/52440.ts
 #EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT SPORTS 1 FHD 50 FPS" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1539.1565312705.png" group-title="UK - Sport",UK: BT SPORTS 1 FHD 50 FPS
