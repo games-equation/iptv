@@ -1,105 +1,59 @@
 #EXTM3U
-#EXTINF:-1 xui-id="2431483" tvg-id="" tvg-name="AF: UG Al Jazeera" tvg-logo="http://tesprologs.xyz/Logos/AFRICA/AF%20UG%20Al%20Jazeera.png" group-title="AFRICA",AF: UG Al Jazeera
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vafr-eKrNktxib-HggHqQ60vdaww3dslMu6xjoG7BXu1A
-#EXTINF:-1 xui-id="2431480" tvg-id="" tvg-name="AF: UG Sky News" tvg-logo="http://tesprologs.xyz/Logos/AFRICA/AF%20UG%20Sky%20News.png" group-title="AFRICA",AF: UG Sky News
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vafr-eKrNktxib-HggHqQ60tSM9B5e4NtHaZpelH9Rsod
-#EXTINF:-1 xui-id="2431610" tvg-id="" tvg-name="AF: ZW Al Jazeera" tvg-logo="http://tesprologs.xyz/Logos/AFRICA/AF%20ZW%20Al%20Jazeera.png" group-title="AFRICA",AF: ZW Al Jazeera
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXK8Ad0Tm0s6zG4WcjG0Ot6RL2k4AZlGaD7zEVrNBJwP
-#EXTINF:-1 xui-id="2431606" tvg-id="" tvg-name="AF: ZW Sky News" tvg-logo="http://tesprologs.xyz/Logos/AFRICA/AF%20ZW%20Sky%20News.png" group-title="AFRICA",AF: ZW Sky News
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXK8Ad0Tm0s6zG4WcjG0Ot7FA45zUVMGsTDusPsAwVq4
-#EXTINF:-1 timeshift="3" xui-id="2484936" tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/aljazeera-uk.png" group-title="UK NEWS",Al Jazeera English FHD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cIR83aOcKg8vH0gW8XPAu9fp
-#EXTINF:-1 timeshift="3" xui-id="2484935" tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/aljazeera-uk.png" group-title="UK NEWS",Al Jazeera English SD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cIRSdGcFDtMEyfCiVx6CAHOc
-#EXTINF:-1 timeshift="3" xui-id="2484938" tvg-id="BBCNews.uk" tvg-name="BBC News FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-hz-white-uk.png" group-title="UK NEWS",BBC News FHD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cIRdVYLePridbiLEZGBUKPUT
-#EXTINF:-1 timeshift="3" xui-id="2484937" tvg-id="BBCNews.uk" tvg-name="BBC News SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-hz-white-uk.png" group-title="UK NEWS",BBC News SD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cITV2IKo0bHZvW6d2KNTtBU8
-#EXTINF:-1 timeshift="3" xui-id="1549640" tvg-id="aljazeeraenglish.ca" tvg-name="CA: Al Jazeera" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/aljazeera-uk.png?raw=true" group-title="CANADA",CA: Al Jazeera
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXyoeneAE-Bg3HlERmOUg2XrTa3cb-TV4qOzJVmfM_N3
-#EXTINF:-1 timeshift="3" xui-id="2473649" tvg-id="CNNInternational.ca" tvg-name="CA: CNN International" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="CANADA",CA: CNN International
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaQTzALNiB3DSGbaAk5G2NueyCbsJ0KBQCjgCkTL-NLRb
-#EXTINF:-1 timeshift="3" xui-id="2484942" tvg-id="CNNPhilippines.ph" tvg-name="CNN HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="UK NEWS",CNN HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cITMeXWkrnrvkukDbN0Nqal4
-#EXTINF:-1 timeshift="3" xui-id="2484941" tvg-id="CNNInternational.uk" tvg-name="CNN SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="UK NEWS",CNN SD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cISG_SN2brmxOV3PGfotRJNF
-#EXTINF:-1 xui-id="2454991" tvg-id="CNNNews18.in" tvg-name="IN: CNN News18" tvg-logo="https://static.epg.best/in/CNNNews18.in.png" group-title="INDIAN",IN: CNN News18
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaaxLSDEYjK8uiYEFn88RmoeTbtpjVVC8Mgw1Prw8XVVs
-#EXTINF:-1 xui-id="2855722" tvg-id="SkyNews.peacock" tvg-name="PC: Sky News" tvg-logo="https://www.firstcomicsnews.com/wp-content/uploads/2019/09/Peacock-logo-600x257.png" group-title="PEACOCK NETWORK",PC: Sky News
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaY4wQ8aA_EJS7HnNC4bSnZ4xEayh8sIfh5ayvwBeDneT
-#EXTINF:-1 xui-id="3151581" tvg-id="Sky.News.2.us" tvg-name="Pluto: Sky News 2" tvg-logo="" group-title="PLUTO TV",Pluto: Sky News 2
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaeAF87KLu1ytShWByhcNqK1i3iIUPve08GXfKiVnTXmh
-#EXTINF:-1 timeshift="3" xui-id="2484950" tvg-id="SkyNews.uk" tvg-name="Sky News FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-news-icon-uk.png" group-title="UK NEWS",Sky News FHD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cIRys_DxzXyFr1wooyD3K2et
-#EXTINF:-1 timeshift="3" xui-id="2484946" tvg-id="SkyNews.uk" tvg-name="Sky News HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-news-icon-uk.png" group-title="UK NEWS",Sky News HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaXO8In9S35wUDsgMPQv6cITcF5HnqcpfHG172xDxcPGF
-#EXTINF:-1 timeshift="2" xui-id="3043281" tvg-id="AlJazeeraEnglish.uk" tvg-name="USA: Al Jazeera English" tvg-logo="http://fanc.tmsimg.com/assets/s47176_ll_h3_aa.png" group-title="USA NEWS",USA: Al Jazeera English
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaeh03Cwdo_F5x5-5iaBb8PQ2z2AhAuNMMh7Y6obhwi4k
-#EXTINF:-1 timeshift="2" xui-id="3043270" tvg-id="CNNSAP" tvg-name="USA: CNN FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hd/cnn-hd-us.png" group-title="USA NEWS",USA: CNN FHD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaeh03Cwdo_F5x5-5iaBb8PTLgETwKfmkWqQM-uiU5YLi
-#EXTINF:-1 timeshift="2" xui-id="3043272" tvg-id="CNNI" tvg-name="USA: CNN International" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-airport-us.png" group-title="USA NEWS",USA: CNN International
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaeh03Cwdo_F5x5-5iaBb8PTR9z8yNavZrTfkdbWYCmfm
-#EXTINF:-1 xui-id="1525182" tvg-id="CNNenEspnol.mx" tvg-name="MEX: CNN en Espanol" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/640px-CNN_en_Espa%C3%B1ol.svg.png" group-title="MEXICO",MEX: CNN en Espanol
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaU0bQb-TTyQHQBYkFKMEZXvkiwvTPwjk-BxyMMaugeFO
-#EXTINF:-1 xui-id="1525184" tvg-id="CNNInternational.mx" tvg-name="MEX: CNN International" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="MEXICO",MEX: CNN International
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaU0bQb-TTyQHQBYkFKMEZXtuY3BROHd-wC3FQakPDUEr
-#EXTINF:-1 xui-id="3314304" tvg-id="" tvg-name="UY: Al Jazeera" tvg-logo="" group-title="URUGUAY",UY: Al Jazeera
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaZ7RJBHQpapbT1tcoH6U2piUYjV884ShhJdsCCDtSv6f
-#EXTINF:-1 xui-id="3314379" tvg-id="CNNInternational.mx" tvg-name="UY: CNN Internacional" tvg-logo="" group-title="URUGUAY",UY: CNN Internacional
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaZ7RJBHQpapbT1tcoH6U2ph4yAt6M-sQtsID2BH05YHJ
-#EXTINF:-1 xui-id="3314380" tvg-id="CNNEB" tvg-name="UY: CNN en Español" tvg-logo="http://fanc.tmsimg.com/assets/s105477_ll_h3_aa.png" group-title="URUGUAY",UY: CNN en Español
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaZ7RJBHQpapbT1tcoH6U2pgr05qkwuIk9eUq44tLoxLi
-#EXTINF:-1 xui-id="2572783" tvg-id="ALJZHD" tvg-name="AR: Al jazeera  HDQTR" tvg-logo="http://fanc.tmsimg.com/assets/s100650_ll_h3_aa.png" group-title="ARABIC",AR: Al jazeera  HDQTR
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaQhqQP1z0T_-WmZuMuSK1JqMsCArrLAhrNT9ddG1HluZ
-#EXTINF:-1 xui-id="2572830" tvg-id="" tvg-name="AR: Al Jazeera doc FHD QTR" tvg-logo="" group-title="ARABIC",AR: Al Jazeera doc FHD QTR
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaWZqeYswxyD1oS894U13vr2OIvyCtVwzabsjmpifKR9o
-#EXTINF:-1 xui-id="2572836" tvg-id="" tvg-name="AR: al jazeera English  NEWS" tvg-logo="" group-title="ARABIC",AR: al jazeera English  NEWS
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaWZqeYswxyD1oS894U13vr225rmux5bJrOsPCRinHR-Z
-#EXTINF:-1 xui-id="2572829" tvg-id="" tvg-name="AR: Al Jazeera Mubasher FHD QTR" tvg-logo="" group-title="ARABIC",AR: Al Jazeera Mubasher FHD QTR
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaWZqeYswxyD1oS894U13vr075C1wyiTrRmUBEMy07NTg
-#EXTINF:-1 xui-id="2572833" tvg-id="" tvg-name="AR: sky news Arabic NEWS" tvg-logo="" group-title="ARABIC",AR: sky news Arabic NEWS
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaWZqeYswxyD1oS894U13vr2yuQkLaFNgS0bqGT8xKXVw
-#EXTINF:-1 xui-id="2376541" tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="AUSTRALIA",Al Jazeera
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaZMjUqXZuRekY8ICwHHQTMgakZ4mU4pg0to-BW3PSkTi
-#EXTINF:-1 xui-id="2376547" tvg-id="" tvg-name="Sky News" tvg-logo="" group-title="AUSTRALIA",Sky News
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaZMjUqXZuRekY8ICwHHQTMiZAxGfkOt_13EZVdtbDLEa
-#EXTINF:-1 xui-id="2376482" tvg-id="" tvg-name="Sky News Covid-19" tvg-logo="https://static.epg.best/it/SkyNews.it.png" group-title="AUSTRALIA",Sky News Covid-19
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vabI3LWNk_eWv1TBPYAMCWA9B-8RA6jq9XrSM-Fy9rKup
-#EXTINF:-1 xui-id="2376483" tvg-id="" tvg-name="Sky News Extra 1" tvg-logo="" group-title="AUSTRALIA",Sky News Extra 1
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vabI3LWNk_eWv1TBPYAMCWA8x_7THwa31OcZyjLG7ZiRt
-#EXTINF:-1 xui-id="2376484" tvg-id="" tvg-name="Sky News Extra 2" tvg-logo="" group-title="AUSTRALIA",Sky News Extra 2
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vabI3LWNk_eWv1TBPYAMCWA-DAuDP3dJ8zLLFw18YmqxF
-#EXTINF:-1 xui-id="2586325" tvg-id="" tvg-name="VN: BBC NEWS" tvg-logo="" group-title="VIETNAMESE",VN: BBC NEWS
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaS3ot_Cnk5MGz5aNy-sstLXYyTaF4ZDDzx2G2Q0QUgah
-#EXTINF:-1 xui-id="2274682" tvg-id="" tvg-name="BR CNN Brasil HD" tvg-logo="https://static.epg.best/br/CNNBrasil.br.png" group-title="BRAZIL",BR CNN Brasil HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaS7XFocEH3Ma1VB_qiLHqjNCEn_dBRAytFprDs18ubJ8
-#EXTINF:-1 xui-id="3151256" tvg-id="CNNEB" tvg-name="AR: CNN en EspaÃ±ol" tvg-logo="http://fanc.tmsimg.com/assets/s105477_ll_h3_aa.png" group-title="ARGENTINA",AR: CNN en EspaÃ±ol
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaReR5FH4pEYCr_qlXUsXq3GeI8fPXGC-bx-xxX-_GO1y
-#EXTINF:-1 xui-id="3151257" tvg-id="" tvg-name="AR: CNN Internacional" tvg-logo="" group-title="ARGENTINA",AR: CNN Internacional
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaReR5FH4pEYCr_qlXUsXq3EUUMTjIoSEcbXKE3PmcoyC
-#EXTINF:-1 xui-id="2599097" tvg-id="" tvg-name="AL JAZEERA" tvg-logo="" group-title="PHILIPPINES",AL JAZEERA
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaUiXjbqhOhKAkFDAWGuXX3gZPk04d_bss2gcuzinZGxU
-#EXTINF:-1 xui-id="2623573" tvg-id="" tvg-name="BiH: Al Jazeera" tvg-logo="http://medialogo.hopto.me/logo/BosnaiHercegovina/ALJazeeraBalkans.png" group-title="EXYU",BiH: Al Jazeera
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaTZc5Ve51Rb2BL2Cjf4aLe_-NQc9HoVTCcft5zEgtl7t
-#EXTINF:-1 xui-id="2599141" tvg-id="" tvg-name="CNN HD" tvg-logo="" group-title="PHILIPPINES",CNN HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vadKt78B-lmWH1iNJRVY7nT501zru3x3fVlPJxFK-VoOJ
-#EXTINF:-1 xui-id="2599084" tvg-id="" tvg-name="CNN PHILIPPINES" tvg-logo="" group-title="PHILIPPINES",CNN PHILIPPINES
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaUiXjbqhOhKAkFDAWGuXX3iIWMvQEq_Ypm7-2DZGka57
-#EXTINF:-1 xui-id="1109778" tvg-id="" tvg-name="ID Al Jazeera English" tvg-logo="" group-title="INDONESIA",ID Al Jazeera English
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaVVf8bST7hbi1n1lZCGYkw-Lrp6slXuwuy0P-huuKiME
-#EXTINF:-1 xui-id="1109729" tvg-id="" tvg-name="ID Sky News" tvg-logo="" group-title="INDONESIA",ID Sky News
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaVVf8bST7hbi1n1lZCGYkw-whCgZSaM_KgQ0Pmz9cUJO
-#EXTINF:-1 xui-id="2599247" tvg-id="" tvg-name="MY: BBC News HD" tvg-logo="" group-title="MALAYSIA",MY: BBC News HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaQ7GmDJg-rc1IkM1fc1emasiwrcehkKgD8YiDl91hc77
-#EXTINF:-1 xui-id="2599263" tvg-id="" tvg-name="MY: CNN HD" tvg-logo="" group-title="MALAYSIA",MY: CNN HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaQ7GmDJg-rc1IkM1fc1emauLe46KT4l9TyRFXEQVPtef
-#EXTINF:-1 xui-id="2599303" tvg-id="" tvg-name="MY: Sky News HD" tvg-logo="" group-title="MALAYSIA",MY: Sky News HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaTFy0l_pHpyuS1hT0JHyG7Jt_dXBG0OmawSaNpaBxjOb
-#EXTINF:-1 xui-id="2424697" tvg-id="" tvg-name="TR CNN TURK HD PLUS" tvg-logo="https://static.epg.best/tr/CNNTurk.tr.png" group-title="TURKISH",TR CNN TURK HD PLUS
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaWX_oMrF7S2DgBdhl9e6fYeNWjePE0nu9ybjfNMPOOtR
-#EXTINF:-1 xui-id="2594812" tvg-id="" tvg-name="TR: Cnn Turk FHD" tvg-logo="" group-title="TURKISH",TR: Cnn Turk FHD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaRYpg_RET4g7-DRUVawo3koZd-72NhDqB6RqI1XdsVK8
-#EXTINF:-1 xui-id="2594813" tvg-id="" tvg-name="TR: Cnn Turk HD" tvg-logo="" group-title="TURKISH",TR: Cnn Turk HD
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaRYpg_RET4g7-DRUVawo3koM9DC2faPx9zTUIdNc847p
-#EXTINF:-1 xui-id="1116373" tvg-id="SkyNews.pt" tvg-name="PT: Sky News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Sky_News_2018.svg/revision/latest/scale-to-width-down/300?cb=20180117110117" group-title="PORTUGAL",PT: Sky News
-http://ultatvpro.com:80/play/cWfy5S8RRvMmmyUXXs7vaWQqpqPo67CY5Ium2oSmDN8d9fPdHUmqcUxhrTlaf6qz
+#EXTINF:-1 xui-id="284715" tvg-id="BBCNEWS" tvg-name="ASTRO: BBC NEWS HD" tvg-logo="" group-title="Malaysia",ASTRO: BBC NEWS HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UReAaBzWTYSAYzjUJJI-hmNcPrkXSSl4JPdXEEXnd66g/ts
+#EXTINF:-1 xui-id="284719" tvg-id="CNNANZ" tvg-name="CNN HD" tvg-logo="" group-title="Malaysia",CNN HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UfdWoFpuYU8dx7gZTTGFPMn4BGRrBso8vukm4cWjk-Dt/ts
+#EXTINF:-1 xui-id="284723" tvg-id="SKYNWMC" tvg-name="SKY NEWS HD" tvg-logo="" group-title="Malaysia",SKY NEWS HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UXRGcNVItCzxfIUFPjJxmLdSqX35VkxQ5DIEN39quZE0/ts
+#EXTINF:-1 xui-id="284736" tvg-id="ALJAZE" tvg-name="AL JAZEERA HD" tvg-logo="" group-title="Malaysia",AL JAZEERA HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47USJ4HjUdXd6nm9zwyIxkr3JBbXPG_RB_EhqiJAICyiTR/ts
+#EXTINF:-1 xui-id="287721" tvg-id="" tvg-name="CNN Indonesia" tvg-logo="" group-title="Indonesia",CNN Indonesia
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UWp3QwJ50IemHcLKy5eolX_am34fZINeIoC5-Ed9ZsFK/ts
+#EXTINF:-1 xui-id="27171" tvg-id="SKYNWMC" tvg-name="Sky News" tvg-logo="http://link.iptvlogin.com:6565/images/af5ab4f4a0c1529172d77967105b288e.png" group-title="United Kingdom",Sky News
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UZ_WxjnWGop2hwZVBzw98VM/ts
+#EXTINF:-1 xui-id="27165" tvg-id="CNNANZ" tvg-name="UK: CNN HD" tvg-logo="http://links.iptvlogin.com:80/images/fe88836bd2261a16f0de4db5a2eac214.jpg" group-title="United Kingdom",UK: CNN HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UWz2mYBxYppUEY0_-W9PRoM/ts
+#EXTINF:-1 xui-id="27172" tvg-id="SKYNWSA" tvg-name="Sky News Arabia" tvg-logo="http://links.iptvlogin.com:80/images/c45420f79aa6e58c92868f4c032d9e4e.png" group-title="United Kingdom",Sky News Arabia
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UY_SEZhTHGt9gkM0rzLI6Hg/ts
+#EXTINF:-1 xui-id="27154" tvg-id="ALJASAP" tvg-name="UK: Al Jazeera English HD" tvg-logo="http://link.iptvlogin.com:6565/images/de1e69a84aa7fc8e07a107bb4fccb627.png" group-title="United Kingdom",UK: Al Jazeera English HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UYX5K5dikqJuVxtivQ4nsHc/ts
+#EXTINF:-1 xui-id="30038" tvg-id="CNNANZ" tvg-name="USA: CNN HD" tvg-logo="http://links.iptvlogin.com:80/images/16d2ef551a0e47b7cd9a2739507ec9f6.png" group-title="US NEWS",USA: CNN HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UUCzkd23qs5hIvswt7wqtTo/ts
+#EXTINF:-1 xui-id="32834" tvg-id="BBCNEWS" tvg-name="BBC News" tvg-logo="http://links.iptvlogin.com:80/images/a7746f783095585583cc4e53a41c8e0d.png" group-title="US NEWS",BBC News
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UUx9ZEsnQJ_uQbEBALEMoBw/ts
+#EXTINF:-1 xui-id="32615" tvg-id="CNNANZ" tvg-name="CNN HD" tvg-logo="http://links.iptvlogin.com:80/images/16d2ef551a0e47b7cd9a2739507ec9f6.png" group-title="US NEWS",CNN HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UVl4FKPCmfEBKdXmueKxLEY/ts
+#EXTINF:-1 xui-id="32876" tvg-id="CNNUKMC" tvg-name="VIP CA: CNN INTERNATIONAL" tvg-logo="http://links.iptvlogin.com:80/images/195536d6eaed0fc3b39ab8be245dc446.png" group-title="US NEWS",VIP CA: CNN INTERNATIONAL
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UfajfQSStSNSscu0pXWE52A/ts
+#EXTINF:-1 xui-id="56556" tvg-id="CNNI" tvg-name="CA: CNN INTERNATIONAL" tvg-logo="" group-title="Canada",CA: CNN INTERNATIONAL
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47URakQgF8dolBeWWim4ul7Zg/ts
+#EXTINF:-1 xui-id="31383" tvg-id="ALJAZE" tvg-name="MX: Al Jazeera HD" tvg-logo="" group-title="Mexico",MX: Al Jazeera HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47URLxtdRWGhTN3lfUBm4T6B0/ts
+#EXTINF:-1 xui-id="31412" tvg-id="" tvg-name="MX: CNN en Espa" tvg-logo="" group-title="Mexico",MX: CNN en Espa
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UdhutKhpmaSMl_k_8SPmHNk/ts
+#EXTINF:-1 xui-id="31413" tvg-id="CNNUKMC" tvg-name="MX: CNN International" tvg-logo="" group-title="Mexico",MX: CNN International
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47US4j1ijMvQ4KMb3HspGnVTQ/ts
+#EXTINF:-1 xui-id="298988" tvg-id="CNNB" tvg-name="BR: CNN BRAZIL" tvg-logo="http://links.iptvlogin.com:80/images/327e2e08f3b18b775dc78ae41703fb3a.png" group-title="Brazil",BR: CNN BRAZIL
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UbdYygxndMgyTQ8mz1gNG9DceSQLeZjS7NpojRqU-fUu/ts
+#EXTINF:-1 xui-id="203082" tvg-id="" tvg-name="CNN Chile" tvg-logo="https://static.iptv-epg.com/cl/CNNChile.cl.png" group-title="CHILE",CNN Chile
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UUDHladsiGVIP0G44FLdJGHLKITPJrmfXdXG1_b8Yvf0/ts
+#EXTINF:-1 xui-id="203083" tvg-id="" tvg-name="CNN Chile HD" tvg-logo="" group-title="CHILE",CNN Chile HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UZbs90Pyl3gHJZaEUoL51XDUg-38B7xRFI9C-JPIF8al/ts
+#EXTINF:-1 xui-id="286455" tvg-id="" tvg-name="PH: AL JAZEERA | SD" tvg-logo="https://live.staticflickr.com/65535/49524317877_aceee12577_t.jpg" group-title="Philippines",PH: AL JAZEERA | SD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UZbG5f0-1N-pKuKHnultDF69r9HPPRXluvBIBxaLCNGI/ts
+#EXTINF:-1 xui-id="286469" tvg-id="" tvg-name="PH: CNN | SD" tvg-logo="http://links.iptvlogin.com:80/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="Philippines",PH: CNN | SD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47Ucs3oh_45oKzG7wJYFGZZclja2WsahWIccAgvBPfI6E_/ts
+#EXTINF:-1 xui-id="208542" tvg-id="CNNUKMC" tvg-name="CNN International" tvg-logo="" group-title="Africa",CNN International
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47Uac8MyTQdQXihyrReivWp24RL8_mQMc-UJSufOACuuOI/ts
+#EXTINF:-1 xui-id="208623" tvg-id="SKYNWMC" tvg-name="Sky News" tvg-logo="" group-title="Africa",Sky News
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47USLJxqLZYP3NRGsJaBduViH6bZTf-QAtjMuCPL_qvSft/ts
+#EXTINF:-1 xui-id="34435" tvg-id="ALJAZE" tvg-name="BiH | Al Jazeera" tvg-logo="" group-title="Ex_Yu",BiH | Al Jazeera
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UWSLoW7tcVHaF7lyaFfIhgg/ts
+#EXTINF:-1 xui-id="39096" tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK" tvg-logo="" group-title="Turkey",TR: CNN TURK
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UQzbUQMIpGvh4IQcSeSyAnE/ts
+#EXTINF:-1 xui-id="284605" tvg-id="" tvg-name="CNN TURK HD" tvg-logo="" group-title="TR - D SMART",CNN TURK HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UXmWR5Aja_LlAh92ZUWWgCZq1PXHuC6TXOofb1nMdRhl/ts
+#EXTINF:-1 xui-id="33173" tvg-id="SKYNWMC" tvg-name="PT: SKY NEWS" tvg-logo="" group-title="Portugal",PT: SKY NEWS
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UTj8uGylnq0IN2IRIJbkMtg/ts
+#EXTINF:-1 xui-id="29514" tvg-id="" tvg-name="DK: CNN HD" tvg-logo="" group-title="Denmark",DK: CNN HD
+http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UfZZtGeGT-4vnqaZ-eNeemo/ts
